@@ -1,0 +1,44 @@
+.lead,#content{
+    /* height:50vh; */
+    /* border:1px solid; */
+    padding: 50px;
+}
+
+.curtain{
+    background-color: #000;
+}
+
+.rotate{
+    margin: 10px auto;
+}
+
+.about{
+    border:1px solid red;
+    position:relative;
+}
+
+.box{
+    width:30%;
+    rotate:50;
+    border:1px solid yellow;
+    height:200px;
+}
+
+.wrap{
+    width:80vw;
+    padding: 40px;
+    /* border:1px solid; */
+}
+
+.text{
+    border:1px solid blue;
+}
+
+
+
+
+
+
+
+
+
