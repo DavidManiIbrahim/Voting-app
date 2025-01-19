@@ -1,0 +1,51 @@
+.lead,#content{
+    /* height:50vh; */
+    /* border:1px solid; */
+    padding: 50px;
+}
+
+.curtain{
+    background-color: #000;
+}
+
+.rotate{
+    margin: 10px auto;
+}
+
+.about{
+    /* border:1px solid red; */
+    position:relative;
+}
+
+.box{
+    /* width:50%;
+    rotate:270deg;
+    padding:50px;
+    border:1px solid yellow;
+    height:200px; */
+}
+
+.wrap{
+    width:50vw;
+    padding: 40px;
+    /* border:1px solid; */
+}
+
+.text{
+    /* border:1px solid blue; */
+}
+
+
+
+
+
+
+
+
+
+.feature,
+.about{
+    text-decoration:none; 
+    writing-mode:vertical-rl;
+
+}

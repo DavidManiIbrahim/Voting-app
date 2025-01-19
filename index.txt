@@ -1,0 +1,175 @@
+Election Page
+
+personal info
+election
+contact
+vote
+
+upcoming election:
+upsatate election
+02-04-2022
+
+other election:
+manipur state election
+04-04-2022
+
+chhatishgarh state election
+12-04-2022
+
+bangluru state election
+20-04-2022
+
+gurgaon municipal corporation
+26-04-2022
+
+
+Personal Info
+
+personal info
+elections
+contacts
+vote
+
+chage profile picture 
+
+edit profile
+
+name:
+john doe
+
+father's/mother's name:
+papa john doe
+
+age:
+19
+mobile number:
++919191505010
+
+email:
+john.doe@gmail.com
+
+aadhar number:
+6100 4080 9126 0909
+
+address
+xyz,street no.92,guraon,uttar pardesh,100021
+
+eligible:
+true
+verified:
+true
+
+
+
+
+
+
+
+
+
+Rules
+
+this election is being conducted by the election commission of india.
+
+you,as being a member of the constituency under the constituencies of uttar pradesh state election,are allowed to vote.please take the following steps in other to cast a valid vote.you are requested to cast vote on your own decision and not by being presseruized or terroized by someone.if someone threatens you for making a voting decsion please contact the given helpline numbers.
+
+steps-
+.stay in the frame of your camera alone and with suuficient lighting for the entire duration.
+.have security keys with you as you would require it to proceed.
+.you are allowed to choose to make only oe candidate per election.
+.you are allowed to choose only one cadidate per election.
+.candidates information are available on the page.
+.make sure that you are selecting your wanted candidate by confirming the name and symbol on the screen.
+.after selecting the candidates make sure to submit the vote.
+.result will be announced after 5 days of election being completed.
+.you can verify your vote after the election results are announced.
+
+i understand and will follow above steps.
+
+cancle
+proceed
+
+
+ 
+
+
+Steps
+
+register yourself by filling the required information
+
+signin as user
+
+go to vote option on dashboard
+
+give security key
+
+vote your candidate and sumit
+
+
+Voting Panel
+
+baburao
+
+independent
+
+name: baburao ganpatrao apte
+
+age: 58
+
+party: independent
+
+education: ba (english hons.)
+
+naredra
+
+bjp
+
+rahul gandhi
+
+congress
+
+arvind kejriwal
+
+aap
+
+i have selected baburao from independent as my candidate.
+
+submit
+
+
+Footer
+
+contacts:
+1800 9090 32
+1800 9000 64
+
+helpline number:
+9090 1234 46
+9090 1234 47
+
+email:
+complaint@electionindia.gov.in
+info@electionindia.gov.in
+
+getin
+register
+login
+
+know more
+features
+about
+steps
+
+follow us
+facebook
+instagram
+titter
+
+shanh.design
+
+quick feedback"
+
+send
+
+
+
